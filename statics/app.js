@@ -7403,7 +7403,7 @@ function Header() {
 		_react2.default.createElement(
 			'figure',
 			{ className: 'Header-menu' },
-			_react2.default.createElement('img', { src: '../img/Menu.png', alt: '' })
+			_react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/Menu.png', alt: '' })
 		),
 		_react2.default.createElement(
 			'nav',
@@ -7478,7 +7478,7 @@ function Header() {
 			_react2.default.createElement(
 				'figure',
 				{ className: 'Header-nav-close' },
-				_react2.default.createElement('img', { src: '../img/cross-flat.png', alt: '' })
+				_react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/cross-flat.png', alt: '' })
 			)
 		)
 	);
@@ -10813,7 +10813,7 @@ class Home extends _react.Component {
           _react2.default.createElement(
             'li',
             null,
-            _react2.default.createElement('img', { src: '../img/For-teachers-flat.png', alt: '' }),
+            _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/For-teachers-flat.png', alt: '' }),
             _react2.default.createElement(
               'p',
               null,
@@ -10823,7 +10823,7 @@ class Home extends _react.Component {
           _react2.default.createElement(
             'li',
             null,
-            _react2.default.createElement('img', { src: '../img/student.png', alt: '' }),
+            _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/student.png', alt: '' }),
             _react2.default.createElement(
               'p',
               null,
@@ -10833,7 +10833,7 @@ class Home extends _react.Component {
           _react2.default.createElement(
             'li',
             null,
-            _react2.default.createElement('img', { src: '../img/matery.png', alt: '' }),
+            _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/matery.png', alt: '' }),
             _react2.default.createElement(
               'p',
               null,
@@ -10843,7 +10843,7 @@ class Home extends _react.Component {
           _react2.default.createElement(
             'li',
             null,
-            _react2.default.createElement('img', { src: '../img/edit.png', alt: '' }),
+            _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/edit.png', alt: '' }),
             _react2.default.createElement(
               'p',
               null,
@@ -10853,7 +10853,7 @@ class Home extends _react.Component {
           _react2.default.createElement(
             'li',
             null,
-            _react2.default.createElement('img', { src: '../img/reporte.png', alt: '' }),
+            _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/reporte.png', alt: '' }),
             _react2.default.createElement(
               'p',
               null,
@@ -10863,7 +10863,7 @@ class Home extends _react.Component {
           _react2.default.createElement(
             'li',
             null,
-            _react2.default.createElement('img', { src: '../img/active.png', alt: '' }),
+            _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/JhonFT/condeasi.co/gh-pages/img/active.png', alt: '' }),
             _react2.default.createElement(
               'p',
               null,
